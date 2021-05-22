@@ -24,8 +24,15 @@
 3. 우리 프로젝트의 차별점 생각해보기
 
 ## 참고 사이트
-![로보 어드바이저 테스트 베드](https://www.ratestbed.kr:7443/portal/main/main.do)
-![서울 핀테크랩](https://seoulfintechlab.kr/news/4540/?prev=news-event&pag=1)
-![핀테크 포털](https://fintech.or.kr/web/user/main.do)
-![핀에듀FINEDU](https://finedu.fintech.or.kr/FLMSApps/LmsTop.do)
+[로보 어드바이저 테스트 베드](https://www.ratestbed.kr:7443/portal/main/main.do)
+[서울 핀테크랩](https://seoulfintechlab.kr/news/4540/?prev=news-event&pag=1)
+[핀테크 포털](https://fintech.or.kr/web/user/main.do)
+[핀에듀FinEDU](https://finedu.fintech.or.kr/FLMSApps/LmsTop.do)
+[women in fintech](https://sc-wif.com/)
+
+## 참고 기업
+[페이워크](https://paywork.io/) 블로그 읽어보면 좋을 것 같아요
+[fount](https://fount.co/)
+[Qraft technologies](https://www.qraftec.com/)
+
 
