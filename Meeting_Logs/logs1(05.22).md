@@ -22,3 +22,10 @@
 1. 참가신청서 작성 -> 논의 후 취합
 2. 다른 로보 어디바이저 조사
 3. 우리 프로젝트의 차별점 생각해보기
+
+## 참고 사이트
+![로보 어드바이저 테스트 베드](https://www.ratestbed.kr:7443/portal/main/main.do)
+![서울 핀테크랩](https://seoulfintechlab.kr/news/4540/?prev=news-event&pag=1)
+![핀테크 포털](https://fintech.or.kr/web/user/main.do)
+![핀에듀FINEDU](https://finedu.fintech.or.kr/FLMSApps/LmsTop.do)
+
